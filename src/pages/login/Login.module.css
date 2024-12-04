@@ -1,0 +1,12 @@
+.login{
+    text-align: center;
+
+}
+
+.login p{
+    color: #aaa;
+}
+
+.login input{
+    padding: 5px;
+}

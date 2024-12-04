@@ -1,0 +1,30 @@
+.register {
+    text-align: center;
+}
+
+.register p{
+    color: #aaa;
+}
+
+.btn {
+    margin-top: 20px;
+    background-color:#A435F0;
+    color: #FFF;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 120px;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1em;
+ }
+ 
+
+ 
+  .btn:hover{
+   background-color: #782cab;
+   color: #FFF;
+  }
+ 
+ 
